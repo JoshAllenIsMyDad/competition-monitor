@@ -1,0 +1,45 @@
+name: Weekly Competition Monitor
+on:
+  schedule:
+    # Monday 01:00 UTC = Monday 09:00 Asia/Hong_Kong (no DST).
+    - cron: '0 1 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: competition-monitor
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test
+        run: python -m unittest discover -s tests -v
+      - name: Restore persistent state
+        shell: bash
+        run: |
+          if git ls-remote --exit-code --heads origin monitor-data >/dev/null 2>&1; then
+            git fetch origin monitor-data
+            git restore --source=FETCH_HEAD --worktree -- data
+          fi
+      - name: Scan official sources and discover leads
+        env:
+          BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
+          SCAN_KIND: ${{ github.event_name == 'schedule' && 'weekly' || 'manual' }}
+        run: python -m monitor.scan --kind "$SCAN_KIND"
+      - name: Optional email
+        continue-on-error: true
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
+        run: python -m monitor.email_notify
+      - name: Publish atomic completion and persistent history
+        run: bash scripts/publish.sh

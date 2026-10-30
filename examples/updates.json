@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "runs": [
+    {
+      "id": "research-baseline-2026-10-30",
+      "completed_at": "2026-10-30T09:00:00+08:00",
+      "kind": "manual",
+      "new": 8,
+      "updated": 0,
+      "upcoming": 0,
+      "high_relevance": [
+        "COMAP MCM / ICM"
+      ],
+      "source_errors": 0,
+      "offline": true,
+      "report_sha256": "d2439ad8de4641842d559114239855ec21cd4754a06d85220f7e941838f25b07"
+    }
+  ],
+  "generated_at": "2026-10-30T09:00:00+08:00",
+  "offline": true,
+  "competitions": [
+    {
+      "id": "comap-mcm-icm",
+      "name": "COMAP MCM / ICM",
+      "deadline": "2027-01-28T15:00:00-05:00",
+      "deadline_hkt": "2027-01-29T04:00:00+08:00",
+      "actionable": true,
+      "relevance_score": 100,
+      "verification": "verified",
+      "last_verified": "2026-10-30"
+    },
+    {
+      "id": "euromcm",
+      "name": "EuroMCM",
+      "deadline": "2026-10-13T17:00:00+01:00",
+      "deadline_hkt": "2026-10-14T00:00:00+08:00",
+      "actionable": false,
+      "relevance_score": 85,
+      "verification": "verified",
+      "last_verified": "2026-10-30"
+    },
+    {
+      "id": "cumcm",
+      "name": "CUMCM / 全国大学生数学建模竞赛",
+      "deadline": "",
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 90,
+      "verification": "verified",
+      "last_verified": "2026-10-30"
+    },
+    {
+      "id": "informs-undergraduate-or",
+      "name": "INFORMS Undergraduate Operations Research Prize",
+      "deadline": "2026-06-30T23:59:00-04:00",
+      "deadline_hkt": "2026-07-01T11:59:00+08:00",
+      "actionable": false,
+      "relevance_score": 90,
+      "verification": "verified",
+      "last_verified": "2026-10-30"
+    },
+    {
+      "id": "rotman-international-trading",
+      "name": "Rotman International Trading Competition",
+      "deadline": "",
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 95,
+      "verification": "needs_review",
+      "last_verified": "2026-10-30"
+    },
+    {
+      "id": "iise-or-case",
+      "name": "IISE OR Division Undergraduate Student Case Competition",
+      "deadline": "",
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 75,
+      "verification": "unverified",
+      "last_verified": "2026-10-30"
+    },
+    {
+      "id": "scudem",
+      "name": "SCUDEM — SIMIODE Challenge Using Differential Equations Modeling",
+      "deadline": "",
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 50,
+      "verification": "unverified",
+      "last_verified": ""
+    },
+    {
+      "id": "informs-analytics-team",
+      "name": "INFORMS O.R. & Analytics Student Team Competition",
+      "deadline": "",
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 65,
+      "verification": "verified",
+      "last_verified": "2026-10-30"
+    }
+  ]
+}

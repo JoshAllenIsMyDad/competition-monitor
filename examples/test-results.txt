@@ -1,0 +1,39 @@
+test_change_detection (test_monitor.DatesAndFiltering) ... ok
+test_dedupe_urls_series_and_query_identity (test_monitor.DatesAndFiltering) ... ok
+test_dst_ambiguity_and_nonexistent_times (test_monitor.DatesAndFiltering) ... ok
+test_eligibility_exclusions_and_manual (test_monitor.DatesAndFiltering) ... ok
+test_est_to_hong_kong (test_monitor.DatesAndFiltering) ... ok
+test_statuses_and_deadline_boundaries (test_monitor.DatesAndFiltering) ... ok
+test_unknown_date_only_naive_and_explicit_zone (test_monitor.DatesAndFiltering) ... ok
+test_csv_injection (test_monitor.Integration) ... ok
+test_two_scans_and_idempotent_history (test_monitor.Integration) ... ok
+test_clickable_backend_safe_urls (test_monitor.Notifications) ... ok
+test_dry_run_no_writes (test_monitor.Notifications) ... ok
+test_enters_seven_days_without_new_cloud_run (test_monitor.Notifications) ... ok
+test_expired_and_unverified_no_urgent_alert (test_monitor.Notifications) ... ok
+test_high_relevance_and_source_errors (test_monitor.Notifications) ... ok
+test_launchagent_paths_and_login (test_monitor.Notifications) ... ok
+test_malformed_manifest_rejected (test_monitor.Notifications) ... ok
+test_missed_updates_and_stale_suppression (test_monitor.Notifications) ... ok
+test_native_sender_mock (test_monitor.Notifications) ... ok
+test_offline_runs_never_notify (test_monitor.Notifications) ... ok
+test_osascript_no_code_interpolation (test_monitor.Notifications) ... ok
+test_persist_success_and_retry_failed_delivery (test_monitor.Notifications) ... ok
+test_same_deadline_in_another_zone_not_repeated (test_monitor.Notifications) ... ok
+test_unchanged_results_no_repeat_changed_deadline_alerts (test_monitor.Notifications) ... ok
+test_zero_result_week_and_extra_urgent_alert (test_monitor.Notifications) ... ok
+test_changed_page_and_acknowledgement (test_monitor.Sources) ... ok
+test_failed_feed_continues (test_monitor.Sources) ... ok
+test_html_drops_scripts (test_monitor.Sources) ... ok
+test_html_rss_discover_unknown_organizers (test_monitor.Sources) ... ok
+test_robots_disallow (test_monitor.Sources) ... ok
+test_unavailable_preserves_history (test_monitor.Sources) ... ok
+test_initial_publish_and_restore_then_append (test_publish.Publication) ... ok
+test_optional_search_uses_eight_queries_max (test_transport.Transport) ... ok
+test_private_token_is_header_only (test_transport.Transport) ... ok
+test_public_manifest_request_no_credentials (test_transport.Transport) ... ok
+
+----------------------------------------------------------------------
+Ran 34 tests in 0.431s
+
+OK

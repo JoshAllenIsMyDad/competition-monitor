@@ -1,0 +1,13 @@
+{
+  "key": "run:SYNTHETIC-weekly-1",
+  "title": "Math Modelling Monitor — Weekly Update",
+  "message": "3 new competitions, 2 updated, 1 deadline approaching. High relevance: SYNTHETIC Optimization Challenge.",
+  "url": "https://example.org/SYNTHETIC-report"
+}
+{
+  "key": "deadline:SYNTHETIC-contest:2026-11-04T03:54:01.209775+00:00",
+  "title": "Math Modelling Monitor — Deadline within 7 days",
+  "message": "Registration: SYNTHETIC Optimization Challenge closes 2026-11-04T11:54:01.209775+08:00 (Hong Kong).",
+  "url": "https://example.org/SYNTHETIC-report"
+}
+PASS: 2 simulated notifications; second check: 0 duplicates. No real notifications sent.

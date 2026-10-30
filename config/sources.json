@@ -1,0 +1,20 @@
+{
+  "discovery_sources": [
+    {"type": "html", "url": "https://www.siam.org/programs-initiatives/education-resources/resources-for-undergraduates/math-competitions/"},
+    {"type": "html", "url": "https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes"},
+    {"type": "html", "url": "https://www.mcm.edu.cn/"},
+    {"type": "html", "url": "https://stattrak.amstat.org/opportunities/conferences-events-and-contests/"},
+    {"type": "rss", "url": "https://stattrak.amstat.org/feed/"},
+    {"type": "html", "url": "https://www.iise.org/Details.aspx?id=56225"}
+  ],
+  "queries": [
+    "mathematical modelling competition international undergraduate registration",
+    "applied mathematics challenge undergraduate competition",
+    "operations research competition student international",
+    "quantitative modelling challenge financial mathematics competition",
+    "mathematical optimization competition undergraduate",
+    "undergraduate mathematics case competition",
+    "数学建模竞赛 国际 大学生 报名",
+    "運籌學競賽 大學生 國際"
+  ]
+}
