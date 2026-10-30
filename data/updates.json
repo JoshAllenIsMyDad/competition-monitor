@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "runs": [
+    {
+      "id": "41003687804",
+      "completed_at": "2026-10-30T04:35:00.889642+00:00",
+      "kind": "manual",
+      "new": 16,
+      "updated": 0,
+      "upcoming": 0,
+      "high_relevance": [
+        "COMAP MCM / ICM"
+      ],
+      "source_errors": 3,
+      "offline": false,
+      "report_sha256": "6d197716f338d3ed373f3fa4d0fc7d13efa9c9362541abaebc92078e13f86796"
+    }
+  ],
+  "generated_at": "2026-10-30T04:35:00.889642+00:00",
+  "offline": false,
+  "competitions": [
+    {
+      "id": "comap-mcm-icm",
+      "name": "COMAP MCM / ICM",
+      "deadline": "2027-01-28T15:00:00-05:00",
+      "deadline_hkt": "2027-01-29T04:00:00+08:00",
+      "actionable": true,
+      "relevance_score": 100,
+      "verification": "verified",
+      "last_verified": "2026-10-30T04:35:00.889642+00:00"
+    },
+    {
+      "id": "euromcm",
+      "name": "EuroMCM",
+      "deadline": "2026-10-13T17:00:00+01:00",
+      "deadline_hkt": "2026-10-14T00:00:00+08:00",
+      "actionable": false,
+      "relevance_score": 85,
+      "verification": "verified",
+      "last_verified": "2026-10-30T04:35:00.889642+00:00"
+    },
+    {
+      "id": "cumcm",
+      "name": "CUMCM / 全国大学生数学建模竞赛",
+      "deadline": "",
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 90,
+      "verification": "verified",
+      "last_verified": "2026-10-30T04:35:00.889642+00:00"
+    },
+    {
+      "id": "informs-undergraduate-or",
+      "name": "INFORMS Undergraduate Operations Research Prize",
+      "deadline": "2026-06-30T23:59:00-04:00",
+      "deadline_hkt": "2026-07-01T11:59:00+08:00",
+      "actionable": false,
+      "relevance_score": 90,
+      "verification": "verified",
+      "last_verified": "2026-10-30T04:35:00.889642+00:00"
+    },
+    {
+      "id": "rotman-international-trading",
+      "name": "Rotman International Trading Competition",
+      "deadline": "",
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 95,
+      "verification": "unavailable",
+      "last_verified": "2026-10-30"
+    },
+    {
+      "id": "iise-or-case",
+      "name": "IISE OR Division Undergraduate Student Case Competition",
+      "deadline": "",
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 75,
+      "verification": "needs_review",
+      "last_verified": "2026-10-30"
+    },
+    {
+      "id": "scudem",
+      "name": "SCUDEM — SIMIODE Challenge Using Differential Equations Modeling",
+      "deadline": "",
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 50,
+      "verification": "unavailable",
+      "last_verified": ""
+    },
+    {
+      "id": "informs-analytics-team",
+      "name": "INFORMS O.R. & Analytics Student Team Competition",
+      "deadline": "",
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 65,
+      "verification": "verified",
+      "last_verified": "2026-10-30T04:35:00.889642+00:00"
+    },
+    {
+      "id": "77ae028599e51996",
+      "name": "2026年全国大学生数学建模竞赛赛题讲评与经验交流会通知",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "0b52fe338016aa85",
+      "name": "2026年高教社杯全国大学生数学建模竞赛赛题",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "633330e73658dc0c",
+      "name": "全国大学生数学建模竞赛人工智能工具使用规定 （2026年试行）",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "187fc16d58365a8f",
+      "name": "2026年全国大学生数学建模竞赛培训与应用研究研讨会成功举行",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "0e610397d7400f58",
+      "name": "2026年全国大学生数学建模竞赛培训与应用研究研讨会第二次通知",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "e9e4481eee1d6eee",
+      "name": "关于推荐“全国大学生数学建模竞赛优秀指导教师、优秀组织工作者”的通知（2026年）",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "a5a5b7746318a5df",
+      "name": "Registration Open for Mathematical Modeling Contest",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "2549465ea45625b5",
+      "name": "COMAPS Offers Modeling Contests for High School, Undergraduate Students",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    }
+  ],
+  "report_url": "https://github.com/JoshAllenIsMyDad/competition-monitor/blob/monitor-data/data/report.md"
+}
