@@ -26,9 +26,21 @@
       "source_errors": 3,
       "offline": false,
       "report_sha256": "cbc992bbee5952ed4f073e4e72461c364177379a5cc267122eb4c76d9905bb3d"
+    },
+    {
+      "id": "42579722140",
+      "completed_at": "2026-11-09T07:30:13.692136+00:00",
+      "kind": "weekly",
+      "new": 5,
+      "updated": 0,
+      "upcoming": 0,
+      "high_relevance": [],
+      "source_errors": 3,
+      "offline": false,
+      "report_sha256": "267ef333c04d9dce79393379caf74edaea2d43eca3f2bb0822149457d68d085f"
     }
   ],
-  "generated_at": "2026-11-02T07:00:40.891997+00:00",
+  "generated_at": "2026-11-09T07:30:13.692136+00:00",
   "offline": false,
   "competitions": [
     {
@@ -39,7 +51,7 @@
       "actionable": true,
       "relevance_score": 100,
       "verification": "verified",
-      "last_verified": "2026-11-02T07:00:40.891997+00:00"
+      "last_verified": "2026-11-09T07:30:13.692136+00:00"
     },
     {
       "id": "euromcm",
@@ -49,7 +61,7 @@
       "actionable": false,
       "relevance_score": 85,
       "verification": "verified",
-      "last_verified": "2026-11-02T07:00:40.891997+00:00"
+      "last_verified": "2026-11-09T07:30:13.692136+00:00"
     },
     {
       "id": "cumcm",
@@ -184,6 +196,56 @@
     {
       "id": "2549465ea45625b5",
       "name": "COMAPS Offers Modeling Contests for High School, Undergraduate Students",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "3001a2473f60ea6a",
+      "name": " 关于2026年全国大学生数学建模竞赛中部分参赛论文相似度较高的通报",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "c486e1061ee83db9",
+      "name": "全国大学生数学建模竞赛优秀指导教师和优秀组织工作者（初稿）（2026年35周年）",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "b59a61f50b4a9897",
+      "name": "2026高教社杯全国大学生数学建模竞赛联合赛区评奖结果（初稿）",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "04568addf1035098",
+      "name": "2026高教社杯全国大学生数学建模竞赛获奖名单（初稿）",
+      "deadline": null,
+      "deadline_hkt": "",
+      "actionable": false,
+      "relevance_score": 35,
+      "verification": "unverified",
+      "last_verified": null
+    },
+    {
+      "id": "d58f6b6076036ec9",
+      "name": "2027年全国大学生数学建模竞赛征题通知暨命题研讨会预通知",
       "deadline": null,
       "deadline_hkt": "",
       "actionable": false,
