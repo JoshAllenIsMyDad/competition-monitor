@@ -38,9 +38,21 @@
       "source_errors": 3,
       "offline": false,
       "report_sha256": "267ef333c04d9dce79393379caf74edaea2d43eca3f2bb0822149457d68d085f"
+    },
+    {
+      "id": "43824366545",
+      "completed_at": "2026-11-16T07:30:50.656626+00:00",
+      "kind": "weekly",
+      "new": 0,
+      "updated": 0,
+      "upcoming": 0,
+      "high_relevance": [],
+      "source_errors": 3,
+      "offline": false,
+      "report_sha256": "ab9c8ed7ff0ac2f8bf8744e46c0f32286f8e9528201e8aef3a08a020d86e1c58"
     }
   ],
-  "generated_at": "2026-11-09T07:30:13.692136+00:00",
+  "generated_at": "2026-11-16T07:30:50.656626+00:00",
   "offline": false,
   "competitions": [
     {
@@ -51,7 +63,7 @@
       "actionable": true,
       "relevance_score": 100,
       "verification": "verified",
-      "last_verified": "2026-11-09T07:30:13.692136+00:00"
+      "last_verified": "2026-11-16T07:30:50.656626+00:00"
     },
     {
       "id": "euromcm",
@@ -61,7 +73,7 @@
       "actionable": false,
       "relevance_score": 85,
       "verification": "verified",
-      "last_verified": "2026-11-09T07:30:13.692136+00:00"
+      "last_verified": "2026-11-16T07:30:50.656626+00:00"
     },
     {
       "id": "cumcm",

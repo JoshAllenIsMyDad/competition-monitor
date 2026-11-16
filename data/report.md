@@ -1,104 +1,16 @@
 # Mathematical Modelling Competition Monitor
 
-Generated: 2026-11-09T15:30:13.692136+08:00 (Asia/Hong_Kong)
+Generated: 2026-11-16T15:30:50.656626+08:00 (Asia/Hong_Kong)
 
 **Mode: LIVE — guarded official sources and discovery leads.** Dates and eligibility require current official confirmation before payment or registration.
 
-21 opportunities / leads; 5 new opportunities / leads; 0 changed records; 0 actionable deadlines within 30 days.
+21 opportunities / leads; 0 new opportunities / leads; 0 changed records; 0 actionable deadlines within 30 days.
 
 Scores measure interest fit, not organizer quality or confirmed eligibility. Missing information remains unknown.
 
 ## A. Newly discovered opportunities
 
-### [ 关于2026年全国大学生数学建模竞赛中部分参赛论文相似度较高的通报](<https://www.mcm.edu.cn/html_cn/node/74c9193dcdfd44d026d2c3bf5f93695c.html>) — 35/100
-
-Organizer unverified · Discovery lead · unknown · manual_verification
-
-Discovery lead; official organizer, dates and eligibility require review.
-
-**Why it fits:** Keyword match; mathematical depth and HKUST access need verification.
-
-**Eligibility / team:** Unverified / Unknown. Format: unknown.
-
-**Registration deadline:** Unknown; not inferred (time zone unknown); **Hong Kong:** Unknown. 
-
-**Competition dates:** Unknown. **Fees:** Unknown. **Prizes:** Unknown.
-
-[Official evidence](<https://www.mcm.edu.cn/html_cn/node/74c9193dcdfd44d026d2c3bf5f93695c.html>) · Registration · Last verified: Never · unverified
-
-
-
-### [2026高教社杯全国大学生数学建模竞赛联合赛区评奖结果（初稿）](<https://www.mcm.edu.cn/html_cn/node/35bbc5972d6c9da336b915d53e384c0d.html>) — 35/100
-
-Organizer unverified · Discovery lead · unknown · manual_verification
-
-Discovery lead; official organizer, dates and eligibility require review.
-
-**Why it fits:** Keyword match; mathematical depth and HKUST access need verification.
-
-**Eligibility / team:** Unverified / Unknown. Format: unknown.
-
-**Registration deadline:** Unknown; not inferred (time zone unknown); **Hong Kong:** Unknown. 
-
-**Competition dates:** Unknown. **Fees:** Unknown. **Prizes:** Unknown.
-
-[Official evidence](<https://www.mcm.edu.cn/html_cn/node/35bbc5972d6c9da336b915d53e384c0d.html>) · Registration · Last verified: Never · unverified
-
-
-
-### [2026高教社杯全国大学生数学建模竞赛获奖名单（初稿）](<https://www.mcm.edu.cn/html_cn/node/3b3c7dc0316351084af0db7ac29c8f0a.html>) — 35/100
-
-Organizer unverified · Discovery lead · unknown · manual_verification
-
-Discovery lead; official organizer, dates and eligibility require review.
-
-**Why it fits:** Keyword match; mathematical depth and HKUST access need verification.
-
-**Eligibility / team:** Unverified / Unknown. Format: unknown.
-
-**Registration deadline:** Unknown; not inferred (time zone unknown); **Hong Kong:** Unknown. 
-
-**Competition dates:** Unknown. **Fees:** Unknown. **Prizes:** Unknown.
-
-[Official evidence](<https://www.mcm.edu.cn/html_cn/node/3b3c7dc0316351084af0db7ac29c8f0a.html>) · Registration · Last verified: Never · unverified
-
-
-
-### [2027年全国大学生数学建模竞赛征题通知暨命题研讨会预通知](<https://www.mcm.edu.cn/html_cn/node/8c1df8f7f3e75798296cde217f490db5.html>) — 35/100
-
-Organizer unverified · Discovery lead · unknown · manual_verification
-
-Discovery lead; official organizer, dates and eligibility require review.
-
-**Why it fits:** Keyword match; mathematical depth and HKUST access need verification.
-
-**Eligibility / team:** Unverified / Unknown. Format: unknown.
-
-**Registration deadline:** Unknown; not inferred (time zone unknown); **Hong Kong:** Unknown. 
-
-**Competition dates:** Unknown. **Fees:** Unknown. **Prizes:** Unknown.
-
-[Official evidence](<https://www.mcm.edu.cn/html_cn/node/8c1df8f7f3e75798296cde217f490db5.html>) · Registration · Last verified: Never · unverified
-
-
-
-### [全国大学生数学建模竞赛优秀指导教师和优秀组织工作者（初稿）（2026年35周年）](<https://www.mcm.edu.cn/html_cn/node/5e448d1c76a63f2828bbf90434e98c43.html>) — 35/100
-
-Organizer unverified · Discovery lead · unknown · manual_verification
-
-Discovery lead; official organizer, dates and eligibility require review.
-
-**Why it fits:** Keyword match; mathematical depth and HKUST access need verification.
-
-**Eligibility / team:** Unverified / Unknown. Format: unknown.
-
-**Registration deadline:** Unknown; not inferred (time zone unknown); **Hong Kong:** Unknown. 
-
-**Competition dates:** Unknown. **Fees:** Unknown. **Prizes:** Unknown.
-
-[Official evidence](<https://www.mcm.edu.cn/html_cn/node/5e448d1c76a63f2828bbf90434e98c43.html>) · Registration · Last verified: Never · unverified
-
-
+None identified in this run.
 
 ## B. Currently open competitions
 
@@ -116,7 +28,7 @@ International team challenge producing a mathematical analysis of an open real-w
 
 **Competition dates:** 28 January 2027 17:00 EST – 1 February 2027 20:00 EST. **Fees:** USD 100/team. **Prizes:** Certificates; scholarship awards subject to current rules.
 
-[Official evidence](<https://www.contest.comap.org/undergraduate/contests/mcm/instructions.html>) · [Registration](<https://www.contest.comap.org/undergraduate/contests/mcm/>) · Last verified: 2026-11-09T07:30:13.692136+00:00 · verified
+[Official evidence](<https://www.contest.comap.org/undergraduate/contests/mcm/instructions.html>) · [Registration](<https://www.contest.comap.org/undergraduate/contests/mcm/>) · Last verified: 2026-11-16T07:30:50.656626+00:00 · verified
 
 Research baseline checked against official rules and registration homepage on 30 October 2026. Live scans guard evidence and page changes.
 
@@ -198,7 +110,7 @@ International modelling contest with continuous, discrete and interdisciplinary 
 
 **Competition dates:** 15–19 October 2026; source prints CET. **Fees:** EUR 80/team. **Prizes:** Certificates and distinctions; consult current awards page.
 
-[Official evidence](<https://www.euromcm.org/instructions>) · [Registration](<https://www.euromcm.org/>) · Last verified: 2026-11-09T07:30:13.692136+00:00 · verified
+[Official evidence](<https://www.euromcm.org/instructions>) · [Registration](<https://www.euromcm.org/>) · Last verified: 2026-11-16T07:30:50.656626+00:00 · verified
 
 2026 has closed. Watch for a separately announced next edition; no 2027 date inferred. Conversion preserves literal CET, not Europe/Paris summer time.
 
